@@ -3,7 +3,9 @@
 # Regular Expression
 
 # Tools
-* [Reg Exr](https://regexr.com/)      
+* [Reg Exr](https://regexr.com/)    
+* [Regex 101](https://regex101.com/)      
+* [Regex Pal](https://www.regexpal.com/)    
 
 
 # References  
